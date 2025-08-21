@@ -1,4 +1,4 @@
-# Anomaly Detection Metrics Dashboard
+# Anomaly Detection Metrics
 
 A modern, responsive web dashboard for visualizing anomaly detection performance metrics across various KPIs (Key Performance Indicators). Built with React, TypeScript, and Tailwind CSS.
 
@@ -9,6 +9,7 @@ A modern, responsive web dashboard for visualizing anomaly detection performance
 - **Performance Analytics**: Summary statistics and comparative charts
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 - **Modern UI**: Clean, professional interface with smooth animations and transitions
+- **Preview Project Link**: https://stackblitz.com/~/github.com/ChirayushSingh/Anomaly-Detection-Metrics
 
 ## 📊 Metrics Displayed
 
@@ -152,6 +153,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support, please open an issue in the GitHub repository or contact the development team.
 
----
+## 🎨 Preview Project Link :- https://stackblitz.com/~/github.com/ChirayushSingh/Anomaly-Detection-Metrics
+
 
 **Note**: This dashboard is designed for telecommunications anomaly detection metrics but can be easily adapted for other domains by modifying the data structure and KPI definitions.
